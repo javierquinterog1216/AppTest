@@ -1,0 +1,9 @@
+C:\DEV\AppTest\DBAppTest\bin\Debug\DBAppTest.dacpac
+C:\DEV\AppTest\DBAppTest\bin\Debug\DBAppTest.dll
+C:\DEV\AppTest\DBAppTest\bin\Debug\DBAppTest.pdb
+C:\DEV\AppTest\DBAppTest\obj\Debug\Model.xml
+C:\DEV\AppTest\DBAppTest\obj\Debug\refactor.xml
+C:\DEV\AppTest\DBAppTest\obj\Debug\postdeploy.sql
+C:\DEV\AppTest\DBAppTest\obj\Debug\predeploy.sql
+C:\DEV\AppTest\DBAppTest\obj\Debug\DBAppTest.dll
+C:\DEV\AppTest\DBAppTest\obj\Debug\DBAppTest.pdb

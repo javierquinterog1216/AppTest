@@ -1,0 +1,8 @@
+C:\DEV\AppTest\Model\bin\Debug\Model.dll
+C:\DEV\AppTest\Model\bin\Debug\Model.pdb
+C:\DEV\AppTest\Model\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\AppTest\Model\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\AppTest\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\DEV\AppTest\Model\obj\Debug\Model.csproj.CopyComplete
+C:\DEV\AppTest\Model\obj\Debug\Model.dll
+C:\DEV\AppTest\Model\obj\Debug\Model.pdb
